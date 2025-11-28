@@ -1,6 +1,6 @@
 ---
 layout: me
-title: me
+title: about me
 ---
 
 mee
