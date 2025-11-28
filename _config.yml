@@ -1,4 +1,4 @@
-permalink: /:2025:11:28/:title
+permalink: /:year:month:day/:title
 url: nasc.cn
 baseurl: /project
 
