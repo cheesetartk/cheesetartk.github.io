@@ -1,5 +1,6 @@
 ---
-layout: me
+
+layout: default
 title: about me
 ---
 

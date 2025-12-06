@@ -1,6 +1,5 @@
 ---
-layout: default
-title: "Markdown Test Page"
+laytitle: "Markdown Test Page"
 tags: tag1 tag3 tag5
 ---
 
