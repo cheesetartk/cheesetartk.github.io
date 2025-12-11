@@ -1,10 +1,10 @@
 permalink: /:year:month:day/:title
-url: #Your url here
-baseurl: /project
+url: https://nasc.cn
+baseurl: ""
 
 # variables
-name: Your Site Name
-description: Your description here
+name: NASC.CN
+description: Jekyll site deployed on GitHub Pages
 google_verification: null
 
 
@@ -23,3 +23,5 @@ kramdown:
   input: GFM
   syntax_highlighter_opts:
     disable : true
+
+timezone: Asia/Shanghai
