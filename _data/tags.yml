@@ -1,11 +1,26 @@
 tag1:
-  name: tag1
+  name: docker
 
 tag2:
-  name: tag2
+  name: git
 
 tag3:
-  name: tag3
+  name: linux
 
 tag4:
-  name: tag4
+  name: nas
+
+tag5:
+  name: sql
+
+tag6:
+  name: tools
+
+tag7:
+  name: ubuntu
+
+tag8:
+  name: vm
+
+tag9:
+  name: z-other
